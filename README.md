@@ -1,3 +1,3 @@
-# Dual-UR-Assembly
+# Dual UR Assembly
 Assignment 1 of 41013 Robotics, University of Technology Sydney.
 ![My Image](Demo.png)
